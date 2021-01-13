@@ -22,6 +22,7 @@ for n in nums:
         print(err)
     else:
         print(result)
-
+    finally:
+        pass
 
 print("All done.")
