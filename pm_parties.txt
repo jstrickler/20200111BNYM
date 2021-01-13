@@ -1,0 +1,29 @@
+Macdonald	Liberal-Conservative
+Mackenzie	Liberal
+Macdonald	Liberal-Conservative
+Albott	Liberal-Conservative
+Sir John	Conservative
+Bowell	Conservative
+Tupper	Conservative
+Laurier	Liberal
+Borden	Conservative
+Borden	Unionist
+Meighen	NLC
+King	Liberal
+Meighen	Conservative
+King	Liberal
+Bennett	Conservative
+King	Liberal
+St. Laurent	Liberal
+Diefenbaker	Progressive Conservative
+Pearson	Liberal
+Trudeau	Liberal
+Clark	Progressive Conservative
+Trudeau	Liberal
+Turner	Liberal
+Mulroney	Progressive Conservative
+Campbell	Progressive Conservative
+Chretien	Liberal
+Martin	Liberal
+Harper	Conservative
+Trudeau	Liberal
