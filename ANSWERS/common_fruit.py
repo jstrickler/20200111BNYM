@@ -13,4 +13,4 @@ with open("../DATA/fruit2.txt") as fruit2_in:
 
 common_fruits = fruit1 & fruit2
 
-print("\n".join(common_fruits))
+print("/".join(common_fruits))
